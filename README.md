@@ -23,7 +23,7 @@ git clone https://github.com/mjadid91/calculis-roguelike-project.git
 
 ## 🎮 Pré-requis
 
-- **Godot Engine 4.2** ou supérieur.
+- **Godot Engine 4.3** ou supérieur.
 - Télécharger ici : [https://godotengine.org/download](https://godotengine.org/download)
 
 ## ✨ Infos
