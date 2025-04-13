@@ -1,0 +1,9 @@
+AnimationPlayer
+CollisionShape2D
+Area2D
+Label
+LineEdit
+VBoxContainer
+Panel
+CanvasLayer
+NavigationAgent2D
